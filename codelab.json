@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-14T10:24:35Z",
+  "id": "LINEmsgsend",
+  "duration": 0,
+  "title": "LINE公式アカウントメッセージ配信について",
+  "summary": "",
+  "source": "1LHMs-ZgQEOLB5WKMxJqiUpdDKpAdRMy8gv_wKpUobC8",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [],
+  "url": "LINEmsgsend"
+}
